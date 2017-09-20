@@ -1,2 +1,2 @@
-# Expos-s
+# Exposes
 Présentation des élèves : Informatique et société
